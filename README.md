@@ -1,5 +1,4 @@
-![WaveRider Logo](images/waverider-114x109.png "WaveRider Logo") 
-![Computer Deconstruction Lab (CDL)](./images/CDL-banner.jpg)
+![CDL WaveRider Logo](images/CDL-WaveRider-800-92.png "WaveRider Logo") 
 # WaveRider
 
 This project is almost identical to 🌐 **Website:** [compdecon.github.io](https://compdecon.github.io/waverider). The difference is the processor. This project uses the [WisBlock Meshtastic Starter Kit - RAK4631 - nRF52840 - US915MHz] (https://store.rakwireless.com/products/wisblock-meshtastic-starter-kit?index=6), also we will recompile the Mestastic firmware to include an I2C distance measuring and BMP280 sensor. We are expecting that this will allow us to setup a Solar powered Meshtatic node.
