@@ -1,4 +1,4 @@
-![Alt text](waverider-150x144.png "WaveRider Logo") 
+![WaveRider Logo](images/waverider-114x109.png "WaveRider Logo") 
 ![Computer Deconstruction Lab (CDL)](./images/CDL-banner.jpg)
 # WaveRider
 
